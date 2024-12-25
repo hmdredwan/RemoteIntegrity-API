@@ -59,7 +59,7 @@ Key Features
 Potential Enhancements
 --> Use a configuration file for API endpoints and query settings.
 --> Implement unit tests for each function.
--->	Extend error handling for additional HTTP status codes.
+--> Extend error handling for additional HTTP status codes.
 --> Add command-line arguments for custom behavior.
 This approach ensures a robust, scalable, and maintainable solution to the given problem.
 
