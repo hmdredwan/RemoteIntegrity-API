@@ -1,4 +1,4 @@
-This document explains the approach taken to solve the Updated Candidate API Test. The implementation is written in Python, with a focus on clear structure, automation, and robust error handling.
+This document explains the approach taken to solve the API Test. The implementation is written in Python, with a focus on clear structure, automation, and robust error handling.
 Overview
 The task is divided into several steps:
 1.	Fetch data using a GraphQL API.
